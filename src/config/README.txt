@@ -1,0 +1,1 @@
+La funcion de esta carpeta y el archivo config es para poner todos los datos de configuraciuon del servidor

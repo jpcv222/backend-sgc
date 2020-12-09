@@ -1,5 +1,5 @@
 module.exports = {
-    API_PORT: 4000,
+    API_PORT: 8000,
     USER: "hepeikukkdnsus",
     HOST: "ec2-54-175-117-212.compute-1.amazonaws.com",
     DATABASE: "d5iducvgnj372p",
